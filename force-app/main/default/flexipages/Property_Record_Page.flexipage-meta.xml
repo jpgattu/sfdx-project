@@ -81,7 +81,11 @@
         </componentInstances>
         <componentInstances>
             <componentInstanceProperties>
-                <name>latField</name>
+                <name>animations</name>
+                <value>true</value>
+            </componentInstanceProperties>
+            <componentName>PictureGalleryCard</componentName>
+               <name>latField</name>
                 <value>Location__Latitude__s</value>
             </componentInstanceProperties>
             <componentInstanceProperties>
